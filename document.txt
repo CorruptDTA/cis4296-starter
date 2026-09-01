@@ -1,0 +1,7 @@
+git clone git@github.com:CorruptDTA/cis4296-starter.git - created the local repository after forking it on GitHub
+git status - returned files that were staged or newly added and untracked
+git add . - used to add all untracked files in the local repo
+git commit -m "First commit" created the first commit for the repo, saving my changes
+git push - pushed my local repository to the remote version hosted on GitHub
+
+2. Using git clone https://github.com/ryfellow/cis4296-starter makes a clone of the initially posted repository, instead of the newly created one by me. As a result, any attempts to push to the repo fail due to a lack of permissions/ownership.
